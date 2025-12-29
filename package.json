@@ -1,0 +1,35 @@
+{
+  "name": "neural-particle-playground",
+  "version": "1.0.0",
+  "description": "A neural particle playground with React, Three.js, Framer Motion, and Tailwind CSS",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^r160",
+    "framer-motion": "^10.16.16",
+    "tailwindcss": "^3.3.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.32"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx"
+  },
+  "keywords": [
+    "react",
+    "three.js",
+    "framer-motion",
+    "tailwindcss",
+    "particles",
+    "neural"
+  ],
+  "author": "saba-sparks",
+  "license": "MIT"
+}
